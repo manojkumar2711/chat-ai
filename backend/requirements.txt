@@ -1,0 +1,4 @@
+fastapi             # API framework
+uvicorn             # ASGI server to run FastAPI
+transformers        # Hugging Face model (GPT-2)
+torch               # PyTorch - runs the AI model
